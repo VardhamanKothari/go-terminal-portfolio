@@ -11,11 +11,11 @@ This interactive CLI app features an animated **Matrix rain effect**, keyboard n
 - 🌧 Matrix-style rain animation in the background
 - 🔐 Hacker/geek aesthetics — no fancy emojis or bloated UI
 - 📜 Navigate via keyboard: arrow keys, `j/k`, and `Enter`
-- 
+  
 
 ## 📦 How to Run Locally
 
-git clone https://github.com/your-username/terminal-portfolio.git
-cd terminal-portfolio
-go run main.go
+- git clone https://github.com/your-username/terminal-portfolio.git
+- cd terminal-portfolio
+- go run main.go
 
